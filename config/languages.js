@@ -4,6 +4,10 @@
  *
  */
 const SUPPORTED_LANGUAGES = {
+  'vi': 'Vietnamese',
+  'en': 'English',
+  'ja': 'Japanese',
+
   'af': 'Afrikaans',
   'sq': 'Albanian',
   'am': 'Amharic',
@@ -25,7 +29,6 @@ const SUPPORTED_LANGUAGES = {
   'cs': 'Czech',
   'da': 'Danish',
   'nl': 'Dutch',
-  'en': 'English',
   'eo': 'Esperanto',
   'et': 'Estonian',
   'tl': 'Filipino',
@@ -49,7 +52,6 @@ const SUPPORTED_LANGUAGES = {
   'id': 'Indonesian',
   'ga': 'Irish',
   'it': 'Italian',
-  'ja': 'Japanese',
   'jw': 'Javanese',
   'kn': 'Kannada',
   'kk': 'Kazakh',
@@ -102,7 +104,6 @@ const SUPPORTED_LANGUAGES = {
   'uk': 'Ukrainian',
   'ur': 'Urdu',
   'uz': 'Uzbek',
-  'vi': 'Vietnamese',
   'cy': 'Welsh',
   'xh': 'Xhosa',
   'yi': 'Yiddish',
